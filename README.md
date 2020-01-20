@@ -2,11 +2,11 @@
 
 Exploring how quickly I can setup an ember app with the following features:
 
-[] Fastboot / Prerender Public Routes
-[] Authentication -> registration, sign-in, forgot-password, oauth
-[] Data Store -> graphql + offline via service worker
-[] Service Worker -> Push notifications, network cache
-[] Image uploads -> Storage, pre-sign, resizing/optimizing, serving
+- [X] Fastboot / Prerender Public Routes
+- [ ] Authentication -> registration, sign-in, forgot-password, oauth
+- [ ] Data Store -> graphql + offline via service worker
+- [ ] Service Worker -> Push notifications, network cache
+- [ ] Image uploads -> Storage, pre-sign, resizing/optimizing, serving
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
