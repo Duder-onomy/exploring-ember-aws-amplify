@@ -3,9 +3,9 @@
 Exploring how quickly I can setup an ember app with the following features:
 
 - [X] Fastboot / Prerender Public Routes
-- [ ] SSL
-- [ ] Git/Branch based environments + Pull request preview environments
-- [ ] Code splitting
+- [X] SSL
+- [X] Git/Branch based environments + Pull request preview environments
+- [?] Code splitting : blocked by https://github.com/embroider-build/embroider/issues/160
 - [ ] Authentication -> registration, sign-in, forgot-password, oauth
 - [ ] Data Store -> graphql + offline via service worker
 - [ ] Service Worker -> Push notifications, network cache
